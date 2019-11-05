@@ -422,4 +422,5 @@ rs0:SECONDARY> rs.config()
 ```
 
 10.3
+
 ![alt text](https://github.com/plohoicod/DsLab9/blob/master/one.png)
